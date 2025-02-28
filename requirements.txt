@@ -1,0 +1,6 @@
+hugchat==0.4.18
+rich==13.9.4
+python-dotenv==1.0.1
+fastapi
+uvicorn
+pydantic
